@@ -31,7 +31,7 @@ Modern deployments may also evaluate oracle ai database capabilities for vector 
 - Oracle ai database capabilities that support newer application patterns alongside traditional relational design  
 - Certification-oriented learning paths connected to oracle database sql certified associate and oracle database certification  
 
-![Oracle Sql Database dashboard with query editor, schema browser, and performance panels](https://avatars.mds.yandex.net/i?id=d1d5e06df29b7588305f9c772db28213_l-4936359-images-thumbs&n=13)
+![Oracle Sql Database dashboard with query editor, schema browser, and performance panels](https://avatars.mds.yandex.net/i?id=d2aa88881a5110d20674c0e1bbd6ed28_l-5150989-images-thumbs&n=13)
 
 ## Compatibility and Deployment Basics
 
